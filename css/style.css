@@ -3,6 +3,11 @@ body {
 }
   
 /* Styles for Navbar */
+
+.custom-navbar {
+    background-color: #507F9A !important;
+}
+
 .navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
