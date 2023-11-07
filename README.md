@@ -5,8 +5,8 @@ This is the solution for the challenge from EdX bootcamp, Week 3, Day 4.
 During Week 3 I learnt Bootstrap library and my task was to apply the skills I got and create a website including the following sections/functionalities:  
 
 1. a Navigation bar:
-   1.1. include links that are applicable to your portfolio;
-   1.2. links should navigate to the appropriate sections.
+   - 1.1. include links that are applicable to your portfolio;
+   - 1.2. links should navigate to the appropriate sections.
 2. a Hero section:
    2.1. a jumbotron featuring your picture, your name, and any other information you'd like to include.
 3. a Work section:
