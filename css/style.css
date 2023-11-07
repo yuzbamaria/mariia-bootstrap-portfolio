@@ -26,6 +26,13 @@ body {
     text-align: center;
 }
 
+.work-par, .about-par {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+
 .custom-card-border{
     border: 0;
 }
