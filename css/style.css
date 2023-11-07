@@ -13,6 +13,11 @@ body {
     margin-right: 0 !important;
 }
 
+a:hover {
+    background-color: rgb(46, 46, 236);
+    border-radius: 0.375rem;
+}
+
 .hero-section {
     background-image: url(../images/hero-background.jpg);
     background-size: cover;
@@ -31,6 +36,10 @@ body {
     text-align: center;
     align-items: center;
     padding: 20px;
+}
+
+.btn:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
 }
 
 .custom-card-border{
