@@ -27,4 +27,4 @@ During Week 3 I learnt Bootstrap library and my task was to apply the skills I g
 https://yuzbamaria.github.io/mariia-bootstrap-portfolio/ 
 
 ## A screenshot of the application
-[!screenshot-mariia-bootstrap-portfolio](images/yuzbamaria.github.io_mariia-bootstrap-portfolio_.png)
+![screenshot-mariia-bootstrap-portfolio](images/yuzbamaria.github.io_mariia-bootstrap-portfolio_.png)
